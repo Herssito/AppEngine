@@ -1,12 +1,8 @@
 <?php
 
-include("conectar.php");
 
 
 ?>
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
